@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: inherit;
+    border: 0 none;
+    cursor: default;
+    line-height: inherit;
+    font-size: 14px;
+    font-weight: inherit;
+    font-family: "Trebuchet MS";
+}
